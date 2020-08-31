@@ -4,7 +4,7 @@
   "description": "The dwebswarm discovery stack",
   "main": "index.js",
   "dependencies": {
-    "@dwebswarm/dht": "0.0.1",
+    "@dwebswarm/dht": "git://github.com/DistributedWeb/dht.git#fb5fe2b28c7f191156dcd6216c5cca2c0bf7bb37",
     "multicast-dns": "^7.2.0"
   },
   "devDependencies": {
