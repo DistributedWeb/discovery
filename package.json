@@ -1,0 +1,29 @@
+{
+  "name": "@dwebswarm/discovery",
+  "version": "3.0.0",
+  "description": "The DWebswarm discovery stack",
+  "main": "index.js",
+  "dependencies": {
+    "@dwebswarm/dht": "git://github.com/DistributedWeb/dht.git#87ff64e0bc7ee945f324c43f5ed3f7b6f5f8178f",
+    "multicast-dns": "^7.2.0",
+    "timeout-refresh": "^1.0.2"
+  },
+  "devDependencies": {
+    "dht-rpc": "^4.1.2",
+    "standard": "^12.0.1",
+    "tape": "^4.9.1"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dwebswarm/discovery.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dwebswarm/discovery/issues"
+  },
+  "homepage": "https://github.com/dwebswarm/discovery"
+}
