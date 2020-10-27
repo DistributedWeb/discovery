@@ -1,7 +1,7 @@
 {
   "name": "@dwebswarm/discovery",
   "version": "4.0.0",
-  "description": "The DWebswarm discovery stack",
+  "description": "dWeb peer discovery module.",
   "main": "index.js",
   "dependencies": {
     "@dwebswarm/dht": "git://github.com/DistributedWeb/dht.git#ce105c8ba1101f4fe348b9f2f36232cdc0bf376c",
@@ -18,12 +18,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dwebswarm/discovery.git"
+    "url": "https://github.com/DistributedWeb/discovery.git"
   },
-  "author": "Mathias Buus (@mafintosh)",
+  "author": "Peeps Labs <peepslabs@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dwebswarm/discovery/issues"
+    "url": "https://github.com/DistributedWeb/discovery/issues"
   },
-  "homepage": "https://github.com/dwebswarm/discovery"
+  "homepage": "https://github.com/DistributedWeb/discovery"
 }
