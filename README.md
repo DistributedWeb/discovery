@@ -1,6 +1,6 @@
 # @dwebswarm/discovery
 
-The dwebswarm peer discovery module
+The dWeb peer discovery module
 
 ```
 npm install @dwebswarm/discovery
